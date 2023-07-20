@@ -1,2 +1,2 @@
 # Projects-on-data-Visualization
-Projects that I have to visualise the data set and prepare reports.
+These are the Projects that I have done to visualise the data set and prepare report as part of the Project assignment.
