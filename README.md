@@ -15,3 +15,8 @@ These are the Projects that I have done to visualise the data set and prepare re
   • Identifying factors that significantly influence the demand and ratings and are driving force behind it.
   
   • Drawing Insights and Recommendations.
+
+
+**2 - Fifa World Cup Analysis.**
+
+  A new football club named 'Brussels United FC' has just been inaugurated. As a member of this club, We have been assigned a task to      carry analysis of the world cup data.
