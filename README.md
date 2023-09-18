@@ -3,18 +3,12 @@ These are the Projects that I have done to visualise the data set and prepare re
 
 **1** ) [Food Hub Data Visualization.](https://github.com/Niha-analytics/Projects-on-data-Visualization/tree/main/Food%20Hub%20Data%20visualisation)
 
-  FoodHub wants to analyse the data to get a fair idea about the demand of different restaurants which will help
-  them in enhancing their customer experience. As a data scientist our Approach to fulfil our objective would be.
- 
-  • Reading and understanding the data.
-  
-  • Data Pre-processing & Exploratory Data Analysis
-  
-  • Understanding the impact of various factors on the Demand of restaurants.
-  
-  • Identifying factors that significantly influence the demand and ratings and are driving force behind it.
-  
-  • Drawing Insights and Recommendations.
+  In this project, I have undertaken a structured approach to achieve the goal of enhancing the customer experience for FoodHub by gaining valuable insights into restaurant demand. The tasks I've diligently executed include:
+
+* Data Preparation & Exploratory Analysis: Conducting data pre-processing and in-depth exploratory data analysis to unveil patterns and trends.
+* Evaluating Factors' Impact: Assessing the influence of various factors on restaurant demand.
+* Identifying Key Drivers: Pinpointing the pivotal factors that significantly affect demand and restaurant ratings.
+* Deriving Insights and Recommendations: Drawing actionable insights and formulating recommendations based on the analysis findings.
 
 
 **2** ) [Fifa World Cup Analysis.](https://github.com/Niha-analytics/Projects-on-data-Visualization/tree/main/Project%20-%20FIFA%20World%20Cup%20Analysis)
