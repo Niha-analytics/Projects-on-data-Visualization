@@ -10,6 +10,4 @@ These are the Projects that I have done to visualise the data set and prepare re
 * Deriving Insights and Recommendations: Drawing actionable insights and formulating recommendations based on the analysis findings.
 
 
-**2** ) [Fifa World Cup Analysis.](https://github.com/Niha-analytics/Projects-on-data-Visualization/tree/main/Project%20-%20FIFA%20World%20Cup%20Analysis)
-
-  A new football club named 'Brussels United FC' has just been inaugurated. As a member of this club, We have been assigned a task to      carry analysis of the world cup data.
+**2** ) [Fifa World Cup Analysis.](https://github.com/Niha-analytics/Projects-on-data-Visualization/tree/main/Project%20-%20FIFA%20World%20Cup%20Analysis)A new football club named 'Brussels United FC' has just been inaugurated. As a member of this club, We have been assigned a task to      carry analysis of the world cup data.
